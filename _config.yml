@@ -1,4 +1,4 @@
 # CHANGEME: Set these variable to your liking
-title: ESPHome Project Template
-description: Powered by ESPHome and ESP Web Tools
+title: ESPHome 6032 HA Dimmer
+description: ESPHome config for 6032HA Series 2 trailing edge dimmer
 theme: jekyll-theme-slate
