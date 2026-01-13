@@ -75,6 +75,8 @@ tuya:
 light:
   - platform: "tuya"
     name: "${friendly_name} Light"
+    switch_datapoint: 1
     dimmer_datapoint: 2
     min_value_datapoint: 3
-    switch_datapoint: 1
+    min_value: 0
+    max_value: 1000
